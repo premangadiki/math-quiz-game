@@ -1,0 +1,19 @@
+.div1 ,.div2{
+background-color: red;
+padding: 10px;
+float: none;
+border-radius: 15px;
+}
+
+body{
+    background-color: aqua;
+}
+
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding:10px;
+    float:none;
+    text-align: left;
+}
